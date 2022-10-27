@@ -186,6 +186,7 @@ body{
    width: 100%;
    min-height: 100vh;
    background-image:  linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.4)), url("/images/pic2.jpg");
+   background-image: url("/images/pic2.jpg");
    background-repeat: no-repeat;
    background-size: cover;
    background-position: top;
@@ -257,6 +258,7 @@ body{
 
 .carousel-item{
    width: 100%;
+   margin-bottom: 2rem;
 }
 .carousel-item img{
    width: 100%;
@@ -280,6 +282,7 @@ body{
   flex-wrap: wrap;
   padding: 2rem 4rem;
   gap: 2%;
+  
 }
 
 
@@ -289,7 +292,7 @@ body{
   flex-direction: column;
   align-items: flex-start;
   justify-content: center;
-   background-image: linear-gradient(rgba(0,0,0,0.01), rgba(0,0,0,0.01)), url(/images/bed.jfif);
+   background-image: linear-gradient(rgba(0,0,0,0.01), rgba(0,0,0,0.01)), url("/images/bed.jfif");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -299,7 +302,7 @@ body{
   border-radius: 1rem;
 }
 #small-banner .banner-box2 {
-  background-image: linear-gradient(rgba(0,0,0,0.01), rgba(0,0,0,0.01)), url(/images/bed2.jfif);
+  background-image: linear-gradient(rgba(0,0,0,0.01), rgba(0,0,0,0.01)), url("/images/bed2.jfif");
 }
 
 #small-banner .banner-box h4 {
@@ -366,7 +369,7 @@ body{
   justify-content: center;
   text-align: left;
   align-items: flex-start;
-  background-image: url(/images/bed3.jfif);
+  background-image: url("/images/bed3.jfif");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -417,49 +420,49 @@ body{
 }
 
 .banner3 .banner-box2 {
-  background-image: url(/images/bed4.jfif);
+  background-image: url("/images/bed4.jfif");
 }
 
 
 .banner3 .banner-box3 {
-  background-image: url(/images/bed.jfif);
+  background-image: url("/images/bed.jfif");
   
 }
 .banner3 .banner-box4 {
-  background-image: url(/images/psm2.jpg)
+  background-image: url("/images/psm2.jpg");
 }
 .banner3 .banner-box5 {
-   background-image: url(/images/psm3.jpg)
+   background-image: url("/images/psm3.jpg");
 }
 .banner3 .banner-box6 {
-    background-image: url(/images/psm4.jpg)
+    background-image: url("/images/psm4.jpg");
 }
 .banner3 .banner-box7 {
-  background-image: url(/images/psm5.jpg)
+  background-image: url("/images/psm5.jpg");
 }
 .banner3 .banner-box8 {
-    background-image: url(/images/bsm2.jpg)
+    background-image: url("/images/bsm2.jpg");
 }
 .banner3 .banner-box9 {
-   background-image: url(/images/bsm3.jpg)
+   background-image: url("/images/bsm3.jpg");
 }
 .banner3 .banner-box10 {
-  background-image: url(/images/bsm4.jpg)
+  background-image: url("/images/bsm4.jpg");
 }
 .banner3 .banner-box11 {
-   background-image: url(/images/bsm5.jpg)
+   background-image: url("/images/bsm5.jpg");
 }
 .banner3 .banner-box12 {
-    background-image: url(/images/om2.jpg)
+    background-image: url("/images/om2.jpg");
 }
 .banner3 .banner-box13 {
-    background-image: url(/images/om3.jpg)
+    background-image: url("/images/om3.jpg");
 }
 .banner3 .banner-box14 {
-    background-image: url(/images/rcm1.jpg)
+    background-image: url("/images/rcm1.jpg");
 }
 .banner3 .banner-box15 {
-    background-image: url(/images/fm1.jpg)
+    background-image: url("/images/fm1.jpg");
 }
 
 .banner3 h2 {
